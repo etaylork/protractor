@@ -1,0 +1,57 @@
+{
+    "Country": [
+        "Belgium",
+        "Canada",
+        "United States of America"
+    ],
+    "Active sites": [
+        "1",
+        "1",
+        "3"
+    ],
+    "Inactive Sites": [
+        "0",
+        "0",
+        "2"
+    ],
+    "Total Screened": [
+        "3",
+        "3",
+        "21"
+    ],
+    "Total In Screening": [
+        "1",
+        "1",
+        "3"
+    ],
+    "Total Screen Failed": [
+        "0",
+        "1",
+        "3"
+    ],
+    "Total Randomized": [
+        "2",
+        "1",
+        "15"
+    ],
+    "Total Active": [
+        "3",
+        "2",
+        "16"
+    ],
+    "Total Unblinded": [
+        "0",
+        "0",
+        "2"
+    ],
+    "Total Withdrawn": [
+        "0",
+        "0",
+        "2"
+    ],
+    "Total Complete": [
+        "0",
+        "0",
+        "0"
+    ]
+}

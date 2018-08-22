@@ -1,0 +1,30 @@
+{
+    "Shipment ID": [
+        "1",
+        "2"
+    ],
+    "Status": [
+        "Received",
+        "Received"
+    ],
+    "Type": [
+        "Manual",
+        "Manual"
+    ],
+    "Ship To:": [
+        "qa_smoke_regression_teststudy1: S0015",
+        "qa_smoke_regression_teststudy1: S0016"
+    ],
+    "Country": [],
+    "Request Date": [],
+    "Shipped Date": [],
+    "Expected Arrival": [],
+    "Received Date": [],
+    "Tracking #": [],
+    "Total Kits": [
+        "110",
+        "110",
+        "110"
+    ],
+    "Notification": []
+}

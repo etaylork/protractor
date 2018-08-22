@@ -1,0 +1,22 @@
+{
+    "Kit ID": [
+        "10002",
+        "10005",
+        "10008"
+    ],
+    "Kit Description": [
+        "Vanilla",
+        "Vanilla",
+        "Vanilla"
+    ],
+    "Lot number": [
+        "patient_tree_lot_1",
+        "patient_tree_lot_1",
+        "patient_tree_lot_1"
+    ],
+    "Lot description": [
+        "FAKE LOT patient_tree_lot_1",
+        "FAKE LOT patient_tree_lot_1",
+        "FAKE LOT patient_tree_lot_1"
+    ]
+}

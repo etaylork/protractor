@@ -1,0 +1,172 @@
+{
+    "upper-columns":[
+        "Depot",
+        "SW",
+        "LW",
+        "Active patients",
+        "Open / Closed sites",
+        "Closed sites opening in SW",
+        "Chocolate",
+        "Vanilla",
+        "Mint"
+    ],
+    "upper-data": [
+        ["USDEP1", "40", "120", "0", "2 / 0", "0", "0", "0", "0"],
+        ["USDEP2", "10", "120", "0", "0 / 0", "0", "0", "0", "0"],
+        ["Total buffer level at depots (Demand in SW)", "0", "0", "0"],
+        ["Total buffer level at sites (UUD in SW)"],
+        ["Study buffer (Sites + Depots)", "0", "0", "0"]
+    ],
+    "data-closed": [
+        ["USDEP1", "40", "120", "0", "1 / 1"]
+    ], 
+    "data-open": [
+        ["USDEP1", "40", "120", "0", "2 / 0"]
+    ],
+    "lower-columns":{
+        "USDEP1":[
+            "Kit type",
+            "Available",
+            "Inbound",
+            "Inv days",
+            "Buffer level (Demand in SW)",
+            "Demand in LW",
+            "Shipment due in (days)"
+        ]
+    },
+    "lower-data-0":{
+        "USDEP1":[
+            ["Chocolate", "50", "0", "", "0", "0", ""],
+            ["Vanilla", "50", "0", "", "0", "0", ""],
+            ["Mint", "50", "0", "", "0", "0", ""]
+        ]
+    },
+    "lower-data-footer-0":{
+        "USDEP1":[
+            ["Overall:", "150", "0", "", "0", "0", ""]
+        ]
+    },
+    "lower-data-1":{
+        "USDEP1":[
+            ["Chocolate", "500", "0", "", "0", "0", ""],
+            ["Vanilla", "500", "0", "", "0", "0", ""],
+            ["Mint", "500", "0", "", "0", "0", ""]
+        ]
+    },
+    "lower-data-footer-1":{
+        "USDEP1":[
+            ["Overall:", "1500", "0", "", "0", "0", ""]
+        ]
+    },
+    "lots-data":[
+        ["patient_tree_lot_1", "FAKE LOT patient_tree_lot_1", "", "", ""]
+    ],
+    "post-run": [
+        ["USDEP1", "40", "120", "0", "2 / 0", "0", "56", "56", "47"],
+        ["USDEP2", "10", "120", "0", "0 / 0", "0", "0", "0", "0"],
+        ["Total buffer level at depots (Demand in SW)", "56", "56", "47"],
+        ["Total buffer level at sites (UUD in SW)"],
+        ["Study buffer (Sites + Depots)", "56", "56", "47"]
+    ],
+    "confidence-97": [
+        ["USDEP1", "40", "120", "0", "2 / 0", "0", "50", "50", "44"],
+        ["USDEP2", "10", "120", "0", "0 / 0", "0", "0", "0", "0"],
+        ["Total buffer level at depots (Demand in SW)", "50", "50", "44"],
+        ["Total buffer level at sites (UUD in SW)"],
+        ["Study buffer (Sites + Depots)", "50", "50", "44"]
+    ],
+    "long-window-180":{
+        "USDEP1":[
+            ["Chocolate", "50", "0", "105", "50", "89"],
+            ["Vanilla", "50", "0", "105", "50", "89"],
+            ["Mint", "50", "0", "146", "44", "62"]
+        ]
+    },
+    "post-reset":{
+        "USDEP1":[
+            ["Chocolate", "50", "0", "105", "56", "57"],
+            ["Vanilla", "50", "0", "105", "56", "57"],
+            ["Mint", "50", "0", "146", "47", "41"]
+        ]
+    },
+    "usdep2-sw-30-lw-120-upper":[
+        ["USDEP1"],
+        ["USDEP2", "30", "120"]
+    ],
+    "usdep2-sw-30-lw-120-lower":{
+        "USDEP1":[
+            ["Chocolate", "50", "0", "101", "50", "89"],
+            ["Vanilla", "50", "0", "101", "50", "89"],
+            ["Mint", "50", "0", "145", "44", "62"]
+        ]
+    },
+    "post-shipment-created":{
+        "USDEP1":[
+            ["Chocolate", "50", "30"],
+            ["Vanilla", "50", "30"],
+            ["Mint", "50", "30"]
+        ],
+        "USDEP2":[
+            ["Chocolate", "470", "0"],
+            ["Vanilla", "470", "0"],
+            ["Mint", "470", "0"]
+        ]
+    },
+    "post-shipment-created-footer":{
+        "USDEP1":[
+            ["Overall:", "150", "90"]
+        ],
+        "USDEP2":[
+            ["Overall:", "1410", "0"]
+        ]
+    },
+    "usdep1-sw-30":[
+        ["USDEP1", "30"]
+    ],
+    "sw-30-upper":[
+        ["USDEP1", "30", "180", "0", "2 / 0", "0", "42", "42", "38"],
+        ["USDEP2"],
+        ["Total buffer level at depots (Demand in SW)", "42", "42", "38"],
+        ["Total buffer level at sites (UUD in SW)"],
+        ["Study buffer (Sites + Depots)", "42", "42", "38"]
+    ],
+    "sw-30-lower":{
+        "USDEP1":[
+            ["Chocolate", "50", "", "", "42"],
+            ["Vanilla", "50", "", "", "42"],
+            ["Mint", "50", "", "", "38"]
+        ]
+    },
+    "2-patients":[
+        ["", "", "", "2"]
+    ],
+    "2-patients-lower-data":{
+        "USDEP1":[
+            ["Chocolate", "50", "", "", "51"],
+            ["Vanilla", "50", "", "", "51"],
+            ["Mint", "50", "", "", "42"]
+        ]
+    },
+    "closed-site":[
+        ["", "", "", "", "1 / 1"]
+    ],
+    "final-run-upper":[
+        ["USDEP1", "30", "180", "0", "1 / 1", "1", "28", "28", "26"],
+        ["USDEP2", "30", "120", "0", "0 / 0", "0", "0","0", "0"],
+        ["Total buffer level at depots (Demand in SW)", "28", "28", "26"],
+        ["Total buffer level at sites (UUD in SW)"],
+        ["Study buffer (Sites + Depots)", "28", "28", "26"]
+    ],
+    "final-run-lower":{
+        "USDEP1":[
+            ["Chocolate", "50", "", "", "40", "", ""],
+            ["Vanilla", "50", "", "", "40", "", ""],
+            ["Mint", "50", "", "", "36", "", ""]
+        ],
+        "USDEP2":[
+            ["Chocolate", "500", "0", "", "0", "0", ""],
+            ["Vanilla", "500", "0", "", "0", "0", ""],
+            ["Mint", "500", "0", "", "0", "0", ""]
+        ]
+    }
+}

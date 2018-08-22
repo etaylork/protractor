@@ -1,0 +1,20 @@
+{
+    "Lot number": [
+        "beverages_test",
+        "beverages_test",
+        "beverages_test"
+    ],
+    "Lot description":[
+        "FAKE LOT beverages_test",
+        "FAKE LOT beverages_test",
+        "FAKE LOT beverages_test"
+    ],
+    "Kit Description":[],
+    "Expiration Date":[
+        "10-Oct-2029",
+        "10-Oct-2029",
+        "10-Oct-2029"
+    ],
+    "Status": [],
+    "Quantity of Kits": []
+}

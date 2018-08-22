@@ -1,0 +1,31 @@
+{
+    "Action":[
+        "Added",
+        "Updated"
+    ],
+    "Cohort Code":[
+        "cohort_1",
+        "cohort_1"
+    ],
+    "Cohort Description":[
+        "1st cohort",
+        "test1"
+    ],
+    "Cohort Status":[
+        "Open",
+        "Closed"
+    ],
+    "Rank":[
+        "1",
+        "12"
+    ],
+    "Screening Cap":[
+        "2",
+        "15"
+    ],
+    "Randomization Cap":[
+        "2",
+        "12"
+    ],
+    "Performed By":[]
+}

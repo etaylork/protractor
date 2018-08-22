@@ -1,0 +1,25 @@
+{
+    "Patient": [
+        "QASR0001",
+        "QASR0002",
+        "QASR0003"
+    ],
+    "Eye color": [
+        "brown",
+        "blue",
+        "blue"
+    ],
+    "Gender": [
+        "male",
+        "female",
+        "female"
+    ],
+    "Status": [
+        "Enrolled",
+        "Enrolled"
+    ],
+    "Last Visit": [
+        "Third dosing",
+        "Second dosing"
+    ]
+}

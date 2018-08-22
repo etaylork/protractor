@@ -1,0 +1,23 @@
+{
+    "Excursion": [
+        "Excursion 1"
+    ],
+    "Excursion Status": [
+        "Open"
+    ],
+    "Shipment Status": [],
+    "Country": [
+        "United States of America"
+    ],
+    "Location": [
+        "qa_smoke_regression_teststudy1: S0015"
+    ],
+    "Reporting Method": [
+        "On Site Excursion"
+    ],
+    "Date Reported":[],
+    "Date Resolved": [],
+    "Total Kits": [
+        "3"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "StudySite": [
+        "BE10003"
+    ],
+    "Investigator":[
+        "Michel Herr"
+    ],
+    "Country": [
+        "Belgium"
+    ],
+    "Site status":[
+        "Open"
+    ],
+    "Site Group":[],
+    "Screening cap":[
+        "15"
+    ],
+    "Total Screened":[
+        "3"
+    ],
+    "Randomization Cap":[
+        "15"
+    ],
+    "Total Randomized":[
+        "2"
+    ]
+}

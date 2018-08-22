@@ -1,0 +1,24 @@
+{
+    "data-a": {
+        "Lot number": [
+            "178887"
+        ],
+        "Lot": [
+            "testlotDepot1"
+        ],
+        "Expiration date": [],
+        "Kit": [
+            "aspirin\ncoffee"
+        ],
+        "Quantity of Kits": [
+            "20\n50"
+        ],
+        "Lot Status": [
+            "Released"
+        ],
+        "Countries": [],
+        "Actions": [
+            "Actions"
+        ]
+    }
+}

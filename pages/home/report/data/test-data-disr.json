@@ -1,0 +1,75 @@
+{
+    "Depot":[
+        "USDEP1",
+        "USDEP1"
+    ],
+    "Country":[
+       "United States of America",
+       "United States of America",
+       "United States of America" 
+    ],
+    "Inbound Lead Time":[
+        "10",
+        "10",
+        "10"
+    ],
+    "Kit type":[
+        "reiterator-reA"
+    ],
+    "Blinding Level":[
+        "Blinded",
+        "Blinded",
+        "Open Blind"
+    ],
+    "Discrete":[
+        "Discrete",
+        "Discrete"
+    ],
+    "Lot number":[
+        "resup_lot1",
+        "resup_lot1"
+    ],
+    "Lot description":[
+        "FAKE LOT resup_lot1",
+        "FAKE LOT resup_lot1"
+    ],
+    "Low threshold":[],
+    "Expiration Date":[
+        "10-Oct-2050",
+        "10-Oct-2050"
+    ],
+    "Cartons or Kits":[
+        "kits",
+        "kits",
+        "kits"
+    ],
+    "Available":[
+        "30",
+        "30",
+        "950"
+    ],
+    "Reserved for Shipment":[
+        "0",
+        "0"
+    ],
+    "Released":[
+        "0",
+        "0"
+    ],
+    "Lost":[
+        "0",
+        "0"
+    ],
+    "Damaged":[
+        "0",
+        "0"
+    ],
+    "Quarantined":[
+        "0",
+        "0"
+    ],
+    "Rejected":[
+        "0",
+        "0"
+    ]
+}

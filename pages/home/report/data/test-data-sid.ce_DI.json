@@ -1,0 +1,23 @@
+{
+    "Kit ID": [
+        "10001",
+        "10002",
+        "10003"
+    ],
+    "Kit Description": [
+        "blinded kit",
+        "blinded kit",
+        "blinded kit"
+    ],
+    "Status": [
+        "Available",
+        "Quarantined",
+        "Available"
+    ],
+    "Dispensing Date": [],
+    "Shipment": [
+        "1",
+        "1",
+        "1"
+    ]
+}

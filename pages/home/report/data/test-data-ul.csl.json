@@ -1,0 +1,31 @@
+{
+    "Email":[
+        "bms@anymail.com"
+    ],
+    "First Name":[
+        "Gary"
+    ],
+    "Last Name":[
+        "Johnson"
+    ],
+    "Is 4g?":[
+        "no"
+    ],
+    "Role":[
+        "blinded MS Investigator"
+    ],
+    "Sites":[
+        "S0015, S0018, S0019"
+    ],
+    "Password Last Updated":[],
+    "Last Successful Login":[],
+    "Last Reset Email Sent":[],
+    "Locked":[
+        "no"
+    ],
+    "Failed Logins":[
+        "0",
+        "0"
+    ]
+
+}

@@ -1,0 +1,38 @@
+{
+  "Visit Type": [
+    "Past",
+    "Past",
+    "Past",
+    "Past",
+    "Upcoming"
+  ],
+  "Scheduled Date": [],
+  "Window": [
+    "",
+    "",
+    "",
+    "",
+    "-1/+2"
+  ],
+  "Actual Date": [],
+  "Visit ID": [
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5"
+  ],
+  "Visit Description": [
+    "Screen",
+    "Randomize",
+    "Second dosing",
+    "Third dosing",
+    "Final visit"
+  ],
+  "Medication assignment": [
+    "",
+    "blinded kit"
+  ],
+  "Quantity": [],
+  "Kit": []
+}

@@ -1,0 +1,62 @@
+{
+    "Study": [
+        "qa_smoke_regression_teststudy1",
+        "qa_smoke_regression_teststudy1",
+        "qa_smoke_regression_teststudy1"
+    ],
+    "Shipment": [
+        "1",
+        "1",
+        "1"
+    ],
+    "Destination Country": [
+        "United States of America",
+        "United States of America",
+        "United States of America"
+    ],
+    "Shipment Status": [
+        "Received",
+        "Received",
+        "Received"
+    ],
+    "Type": [
+        "Manual",
+        "Manual",
+        "Manual"
+    ],
+    "Destination Site": [
+        "qa_smoke_regression_teststudy1: S0015",
+        "qa_smoke_regression_teststudy1: S0015",
+        "qa_smoke_regression_teststudy1: S0015"
+    ],
+    "Investigator": [
+        "Captain Cooper",
+        "Captain Cooper",
+        "Captain Cooper"
+    ],
+    "Kit Description": [],
+    "Kit type": [
+        "Discrete",
+        "Discrete",
+        "Discrete"
+    ],
+    "Kit ID": [],
+    "Lot number": [],
+    "Lot description": [],
+    "Quantity of Cartons": [],
+    "Quantity of Kits": [
+        "1",
+        "1",
+        "1"
+    ],
+    "Expiration Date": [
+        "10-Oct-2050",
+        "10-Oct-2050",
+        "10-Oct-2050"
+    ],
+    "Status": [
+        "Available",
+        "Available",
+        "Available"
+    ]
+}

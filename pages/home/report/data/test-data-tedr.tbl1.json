@@ -1,0 +1,27 @@
+{
+    "Temp Excursion ID": [
+        "1"
+    ],
+    "Excursion Status": [
+        "Open"
+    ],
+    "Country": [
+        "United States of America"
+    ],
+    "Location": [
+        "qa_smoke_regression_teststudy1: S0015"
+    ],
+    "Reporting Method": [
+        "On Site Excursion"
+    ],
+    "Reported By": [],
+    "Date Reported":[],
+    "Date Resolved": [],
+    "Cycle Time": [],
+    "Kits Approved": [],
+    "Kits Rejected": [],
+    "Kits In Progress": [],
+    "Total Kits": [
+        "3"
+    ]
+}

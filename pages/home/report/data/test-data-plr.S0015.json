@@ -1,0 +1,28 @@
+{
+    "Patient Identifier": [
+        "QASR0001",
+        "QASR0002",
+        "QASR0003"
+    ],
+    "Status": [
+        "Enrolled",
+        "Enrolled",
+        "Screen Failed"
+    ],
+    "Last Visit": [
+        "Third dosing",
+        "Second dosing",
+        "Screen"
+    ],
+    "Last Visit Date": [],
+    "Next Expected Visit": [
+        "Final visit",
+        "Third dosing"
+    ],
+    "Next expected visit date": [],
+    "Return kit(s)": [
+        "Return kit",
+        "Return kit"
+    ],
+    "More visits": []
+}

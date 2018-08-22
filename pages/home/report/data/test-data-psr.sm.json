@@ -1,0 +1,48 @@
+{
+    "StudySite": [
+        "S0015",
+        "S0015",
+        "S0015"
+    ],
+    "Investigator": [
+        "Captain Cooper",
+        "Captain Cooper",
+        "Captain Cooper"
+    ],
+    "Country": [
+        "United States of America",
+        "United States of America",
+        "United States of America"
+    ],
+    "Patient": [
+        "QASR0001",
+        "QASR0002",
+        "QASR0003"
+    ],
+    "Eye color": [
+        "brown",
+        "blue",
+        "blue"
+    ],
+    "Gender": [
+        "male",
+        "female",
+        "female"
+    ],
+    "Status": [
+        "Enrolled",
+        "Enrolled",
+        "Screen Failed"
+    ],
+    "Last Visit": [
+        "Third dosing",
+        "Second dosing",
+        "Screen"
+    ],
+    "Last Visit Date": [],
+    "Next Expected Visit": [
+        "Final visit",
+        "Third dosing"
+    ],
+    "Next expected visit date": []
+}

@@ -1,0 +1,45 @@
+{
+    "Country": [
+        "United States of America",
+        "United States of America",
+        "United States of America"
+    ],
+    "StudySite": [
+        "S0015",
+        "S0015",
+        "S0015"
+    ],
+    "Investigator": [
+        "Captain Cooper",
+        "Captain Cooper",
+        "Captain Cooper"
+    ],
+    "Patient": [
+        "QASR0001",
+        "QASR0002",
+        "QASR0005"
+    ],
+    "Eye color": [
+        "brown",
+        "blue",
+        "brown"
+    ],
+    "Gender": [
+        "male",
+        "female",
+        "male"
+    ],
+    "Status": [
+        "Enrolled",
+        "Enrolled",
+        "Dropped"
+    ],
+    "Randomization Number": [
+        "1",
+        "2",
+        "3"
+    ],
+    "Treatment Arm": [],
+    "Treatment": [],
+    "Randomization / Enrollment Date": []
+}

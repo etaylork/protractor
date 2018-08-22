@@ -1,0 +1,20 @@
+{
+    "Patient": [
+        "QASR0001",
+        "QASR0002",
+        "QASR0003",
+        "QASR0004"
+    ],
+    "Eye color": [
+        "brown",
+        "blue",
+        "blue",
+        "brown"
+    ],
+    "Gender": [
+        "male",
+        "female",
+        "female",
+        "female"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "StudySite":[
+        "BE10003",
+        "S0015",
+        "S0016",
+        "S0017"
+    ],
+    "Investigator":[
+        "Michel Herr",
+        "Captain Cooper",
+        "",
+        "Dixie"
+    ],
+    "Country":[
+        "Belgium",
+        "United States of America",
+        "United States of America",
+        "United States of America"
+    ],
+    "Site status":[
+        "Open",
+        "Open",
+        "Open",
+        "Closed"
+    ],
+    "Site Group":[
+        "",
+        "Low",
+        "Low",
+        "Medium"
+    ],
+    "Screening cap":[
+        "15",
+        "100",
+        "100",
+        "100"
+    ],
+    "Total Screened":[
+        "3",
+        "9",
+        "9",
+        "0"
+    ],
+    "Randomization Cap":[
+        "15",
+        "100",
+        "10",
+        "100"
+    ],
+    "Total Randomized":[
+        "2",
+        "6",
+        "7",
+        "0"
+    ]
+}

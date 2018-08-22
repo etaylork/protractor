@@ -1,0 +1,18 @@
+{
+    "Log Level": [
+        "Debug",
+        "Debug",
+        "Debug"
+    ],
+    "Log Message": [
+        "Resupply triggered by an automated task",
+        "Resupply triggered by an automated task",
+        "Execute Resupply For Sites with parameters: Pooling Group: qa_smoke_regression_teststudy1, Site: S0018"
+    ],
+    "Timestamp": [],
+    "Log Record ID": [
+        "1",
+        "2",
+        "3"
+        ]
+}

@@ -1,0 +1,35 @@
+{
+    "Lot number": [
+        "", "", "", "", "", "", "", "", "",
+        "LN1", "LN2", "LN3"
+    ],
+    "Lot description": [
+        "", "", "", "", "", "", "", "", "",
+        "LD1", "LD2", "LD3"
+    ],
+    "Expiration date": [],
+    "Lot Type": [
+        "", "", "", "", "", "", "", "", "",
+        "Bulk", "Bulk", "Bulk"
+    ],
+    "Blinded?": [
+        ""
+    ],
+    "Lot Status": [
+        "", "", "", "", "", "", "", "", "",
+        "Released", "Released", "Added"
+    ],
+    "Approved countries": [
+        "", "", "", "", "", "", "", "", "",
+        "BE, CA, US","", ""
+    ],
+    "Kit": [
+        "", "", "", "", "", "", "", "", "",
+        "coffee", "coffee", "decaf"
+    ],
+    "Quantity of Kits": [
+        "", "", "", "", "", "", "", "", "",
+        "1", "1", "1"
+    ],
+    "Drug and Country Release Report": []
+}

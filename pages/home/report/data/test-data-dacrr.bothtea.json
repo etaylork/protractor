@@ -1,0 +1,37 @@
+{
+    "Transaction ID": [
+        "2"
+    ],
+    "Transaction Date": [],
+    "Transaction Type": [
+        "Lot Added"
+    ],
+    "User": [
+        "Maria Martinez sup@4gclinical.com"
+    ],
+    "Approval Required": [
+        "no"
+    ],
+    "Approval Status": [
+        "Approved"
+    ],
+    "Lot number": [
+        "Both_Tea"
+    ],
+    "Lot description": [
+        "FAKE LOT Both_Tea"
+    ],
+    "Lot Status": [
+        "Released"
+    ],
+    "Expiration date": [
+        "10-Oct-2050"
+    ],
+    "Countries": [],
+    "Kit type": [
+        "coffee"
+    ],
+    "Kit Quantity for use": [
+        "10"
+    ]
+}
